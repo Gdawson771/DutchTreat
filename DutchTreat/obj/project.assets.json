@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\matthew.dickson\\Documents\\GarethWorkExperience\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+      "projectUniqueName": "C:\\Repositories\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
       "projectName": "DutchTreat",
-      "projectPath": "C:\\Users\\matthew.dickson\\Documents\\GarethWorkExperience\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+      "projectPath": "C:\\Repositories\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
       "packagesPath": "C:\\Users\\matthew.dickson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matthew.dickson\\Documents\\GarethWorkExperience\\DutchTreat\\DutchTreat\\obj\\",
+      "outputPath": "C:\\Repositories\\DutchTreat\\DutchTreat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
